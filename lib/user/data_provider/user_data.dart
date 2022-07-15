@@ -1,5 +1,4 @@
 import 'dart:convert';
-import 'package:meta/meta.dart';
 import 'package:github_user_search_tool/user/models/user.dart';
 import 'package:http/http.dart' as http;
 

@@ -1,4 +1,3 @@
-import 'package:meta/meta.dart';
 import 'package:github_user_search_tool/user/user.dart';
 
 class UserRepository {
